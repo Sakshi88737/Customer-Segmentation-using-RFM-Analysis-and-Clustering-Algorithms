@@ -15,7 +15,7 @@ With the growing need of businesses, it is essential to understand the customer 
 
 ### Dataset Description
 
-The dataset used in this project is taken from UCI Machine Learning Repository which contains transactional data from 1st January, 2010 to 12th September,2011 which is sourced from UK based brokerage entity. This dataset is concerned with sale of unique gift goods that includes customers from diverse background to retail enterprises. The dataset used consists of following mentioned attributes :
+The dataset used in this project is taken from Kaggle(https://www.kaggle.com/code/azizozmen/customer-segmentation-cohort-rfm-analysis-k-means/notebook) which contains transactional data from 1st January, 2010 to 12th September,2011 which is sourced from UK based brokerage entity. This dataset is concerned with sale of unique gift goods that includes customers from diverse background to retail enterprises. The dataset used consists of following mentioned attributes :
 
 	InvoiceNo- It’s a unique identifier/ receipt number printed on every invoice to show the transaction (6-digit code)
 	StockCode- Unique identifier used by the businesses to manage and track inventories (5-digit code)
